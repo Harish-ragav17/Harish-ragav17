@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **harishragavendarraja@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1TpAz8PyT5PY_B_gctRWuIbTOWMvX0AfJ/view?usp=sharing](https://drive.google.com/file/d/1TpAz8PyT5PY_B_gctRWuIbTOWMvX0AfJ/view?usp=sharing))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1TpAz8PyT5PY_B_gctRWuIbTOWMvX0AfJ/view?usp=sharing)
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
