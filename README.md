@@ -1,9 +1,9 @@
 <div align="center">
-<img src="./pic.jpg" align="center" width="200" />
+<!-- //<img src="./pic.jpg" align="center" width="200" /> -->
 </div>  
   
 
-### <div align="center">I'm Harish Ragavendar,a full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
+### <div align="center">I'm Harish Ragavendar </n>a full-stack freelance developer 👨‍💻 working remotely since 2024 🚀</div>  
   
 
 - 🔭 I’m currently Learning DSA using Java  
