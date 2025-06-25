@@ -7,7 +7,7 @@
 <br>
   
 
-- 🔭 I’m currently Learning DSA using Java  
+- 🔭 I’m currently Learning Python,PySpark and SQL  
   
 
 - 👨‍💻 All of my projects are available at https://github.com/Harish-ragav17  
